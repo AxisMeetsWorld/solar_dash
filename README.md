@@ -8,5 +8,5 @@ The data is broken down by month, and then day to get the total irradiation. Her
 * There are daily sums and means for all data.
 * Finally there are scrolers set up so that you can select a month and then day of the month to see all of the summed data, and then a datapoint that shows the mean for that day.
 
-  <font color="green"> More advanced calculations may be added over time</font>
+<font color="green">*More advanced calculations may be added over time*</font>
 
